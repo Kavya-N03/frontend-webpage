@@ -25,7 +25,11 @@ https://github.com/Kavya-N03/frontend-webpage
 - JavaScript (Vanilla JS)
 
 ## Project Structure
+
+```
 frontend-webpage
+│
+├── index.html
 │
 ├── assets
 │   ├── icons
@@ -37,8 +41,6 @@ frontend-webpage
 │   ├── styles2.css
 │   └── responsive.css
 │
-├── js
-│   └── script.js
-│
-└── index.html
-
+└── js
+    └── script.js
+```
